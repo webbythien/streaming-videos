@@ -1,4 +1,4 @@
-# Backend video streaming app similar to YT
+# Backend video streaming app 
 
 Technologies used: AWS, FastAPI, Redis, Docker, PostgreSQL, Bloc
 
